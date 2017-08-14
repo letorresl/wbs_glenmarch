@@ -1,0 +1,9 @@
+# Ignore python compiled modules
+*.pyc
+
+# Ignore data files
+*.csv
+*.json
+
+# Ignore scrapy's cache folder
+.scrapy/
